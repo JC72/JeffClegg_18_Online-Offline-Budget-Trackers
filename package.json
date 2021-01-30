@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/coding-boot-camp/unit18hw.git"
+    "url": "https://github.com/JC72/JeffClegg_18_Online-Offline-Budget-Trackers"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/coding-boot-camp/unit18hw/issues"
+    "url": "https://github.com/JC72/JeffClegg_18_Online-Offline-Budget-Trackers/issues"
   },
-  "homepage": "https://github.com/coding-boot-camp/unit18hw#readme",
+  "homepage": "https://github.com/JC72/JeffClegg_18_Online-Offline-Budget-Trackers/blob/main/README.md",
   "dependencies": {
     "compression": "^1.7.4",
     "express": "^4.17.1",
