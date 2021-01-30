@@ -1,3 +1,4 @@
+  
 let db;
 // create a new db request for a "budget" database.
 const request = indexedDB.open("budget", 1);
@@ -30,7 +31,7 @@ function saveRecord(record) {
 
   // add record to your store with add method.
   store.add(record);
-};
+}
 
 function checkDatabase() {
   // open a transaction on your pending db
